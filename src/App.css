@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #2a72b6;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Article {
+  background-color: #81df78;
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+  margin-bottom: 1vh;
+}
+
+.ArticleChildren{
+  background-color: blueviolet;
+  margin-bottom: 1vh;
+}
+.Oslo{
+  position: relative;
+  transform: translate(-240%,1000%);
+  color: red;
+  background-color: red;
+  border-color: blue;
+  border-radius: 50%;
+  cursor: Pointer
+}
+.Sthlm{
+  position: relative;
+  transform: translate(40%,1050%);
+  color: yellow;
+  background-color: yellow;
+  border-color: blue;
+  border-radius: 50%;
+  cursor: Pointer
+}
+.Cph{
+  position: relative;
+  transform: translate(-360%,1450%);
+  color: red;
+  background-color: red;
+  border-color: white;
+  border-radius: 50%;
+  cursor: Pointer
+}
+.Helsi{
+  position: relative;
+  transform: translate(130%,950%);
+  color: blue;
+  background-color: blue;
+  border-color: white;
+
+  border-radius: 50%;
+  cursor: Pointer
+}
+
+.Infobox {
+  margin:auto;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  max-width: 200px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size:12px;
+  pointer-events:auto !important;
+}
+.button{
+    color: white;
+    background-color: white;
+    border-radius: 50%;
+    cursor: Pointer
+}
