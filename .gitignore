@@ -24,3 +24,4 @@ yarn-error.log*
 
 # something
 package-lock.json
+package.json
