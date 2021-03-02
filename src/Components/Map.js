@@ -16,7 +16,7 @@ const mystyle = {
     backgroundImage: `url(${bild})`,
     backgroundSize: 'cover'
 };
-
+// Adding a comment
 const capitals = ['Oslo', 'Sthlm', 'Cph', 'Helsi'];
 const Map = () => {
     const [show, setShow] = useState(false);
