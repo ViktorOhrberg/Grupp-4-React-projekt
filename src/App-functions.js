@@ -5,7 +5,7 @@ import Map from './Components/Map'
 // toggla frqam landsinfo
 
 function App() {
-  const greeting = 'Grupp4 React app - rocks!'
+  const greeting = 'Grupp4 React app'
   const today = new Date().toLocaleDateString()
 
   return (
