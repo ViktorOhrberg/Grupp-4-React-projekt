@@ -3,3 +3,5 @@ User-agent: *
 Disallow:
 Hejja Elfsborg
 det är sol ute, yey
+
+Lägger till en rad -v
